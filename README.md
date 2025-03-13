@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mark Joseph Potot</h1>
-<h3 align="center">Tech Enthusiast | 🌐 Full-Stack Web Developer | A Gamer Based in Bogo City, Cebu</h3>
+<h3 align="center">Tech Enthusiast | 🌐 Web Developer | A Gamer Based in Bogo City, Cebu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark2004&label=Profile%20views&color=0e75b6&style=flat" alt="Mark20042" /> </p>
 
