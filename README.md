@@ -4,8 +4,8 @@
 <div align="left">
   <h1>Hello, I'm Mark Joseph Potot!</h1>
   <p>
-    Tech Enthusiast&nbsp&nbsp|&nbsp&nbsp🌐 Web Developer&nbsp&nbsp|&nbsp&nbspGamer <br>
-    Based in Bogo City, Cebu, I am passionate about building modern, responsive, and user-friendly web applications that combine sleek design with powerful functionality.
+    Tech Enthusiast&nbsp&nbsp|&nbsp&nbsp🌐 Web Developer&nbsp&nbsp|&nbsp&nbspGamer 
+    Based in Bogo City, Cebu <br> I am passionate about building modern, responsive, and user-friendly web applications that combine sleek design with powerful functionality.
   </p>
   <img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
