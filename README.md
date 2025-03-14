@@ -1,6 +1,6 @@
 # 🏂 Azore.Dev
 
-**`Tech Enthusiast  |  🌐 Web Developer  |  Gamer Based in Bogo City, Cebu`**
+**`Tech Enthusiast  |  🌐 Web Developer  |  Gamer`**
 
 
 <div align="left">
