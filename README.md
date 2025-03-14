@@ -1,4 +1,5 @@
-![Web Developer](https://github.com/user-attachments/assets/cd66985e-fd01-4dd6-abba-9c905a2eb288)
+![Web Developer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx6c2J2ZmVjdjhvdHBjdTJ0OWx4dzV6enZ1aWF1dmVndHN6bWYxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C1OGb26u6TZmrS73LV/giphy.gif)
+
 # 🏂 Azore.Dev
 
 **`Tech Enthusiast  |  🌐 Web Developer  |  Gamer`**
