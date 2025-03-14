@@ -1,3 +1,4 @@
+![Web Developer](https://github.com/user-attachments/assets/cd66985e-fd01-4dd6-abba-9c905a2eb288)
 # 🏂 Azore.Dev
 
 **`Tech Enthusiast  |  🌐 Web Developer  |  Gamer`**
