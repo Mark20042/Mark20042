@@ -1,11 +1,11 @@
+# 🏂 Azore.dev
 
+**`Tech Enthusiast  |  🌐 Web Developer  |  Gamer Based in Bogo City, Cebu`**
 
 
 <div align="left">
-  <h1>Hello, I'm Mark Joseph Potot!</h1>
   <p>
-    Tech Enthusiast&nbsp&nbsp|&nbsp&nbsp🌐 Web Developer&nbsp&nbsp|&nbsp&nbspGamer 
-    Based in Bogo City, Cebu <br> I am passionate about building modern, responsive, and user-friendly web applications that combine sleek design with powerful functionality.
+   I am passionate about building modern, responsive, and user-friendly web applications that combine sleek design with powerful functionality.
   </p>
   <img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -39,6 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" />
+  
 </div>
 
 ---
