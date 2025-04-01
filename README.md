@@ -58,10 +58,8 @@
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img 
-<!--     src="https://github-readme-stats.vercel.app/api/top-langs?username=Mark20042&layout=compact&locale=en&theme=radical&hide_border=false&border_radius=10" 
-    alt="Top Languages"  -->
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats alt=Top Languages"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=donut-vertical)](https://github.com/mark20042/github-readme-stats alt=Top Languages"
     height="100" 
     style="margin: 40px;" 
   />
