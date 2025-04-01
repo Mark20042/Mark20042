@@ -57,13 +57,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=donut](https://github.com/Mark20042/github-readme-stats)"
-    height="100" 
-    style="margin: 40px;" 
-  />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=donut)](https://github.com/Mark20042/github-readme-stats)
 
 ---
 
