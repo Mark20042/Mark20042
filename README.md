@@ -57,7 +57,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=donut)](https://github.com/Mark20042/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ---
 
