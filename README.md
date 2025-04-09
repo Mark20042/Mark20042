@@ -1,6 +1,6 @@
 ![Web Developer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkwwub0ANo8wm2hXwE/giphy.gif)
 
-# 🏂 Azore.Dev     <div align="right" <img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></div>
+# 🏂 Azore.Dev    <img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" align="right" />
 
 
 
