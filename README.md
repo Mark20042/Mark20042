@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 - 🌱 Learning **.NET, Laravel , React**  
-- 💬 Ask me about **C#, Python, C++, and MYSQL**  
+- 💬 Ask me about **C#, Python, C++, and Mysql**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
 
 ---
