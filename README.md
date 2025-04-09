@@ -34,7 +34,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,cs,java,py,dotnet,mysql,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,cpp,cs,java,py,dotnet,mysql,git&perline=6)](https://skillicons.dev)
  
 
 ---
