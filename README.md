@@ -44,8 +44,4 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&size_weight=0.5&count_weight=0.5)
-
----
-
-### Fun Fact
-I'm also a good gamer we can play with each other and work as a team! 🎮 
+ 
