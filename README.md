@@ -18,7 +18,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 ### 🚀 About Me
-- 🌱 Learning **.NET, Laravel , React**  
+- 🌱 Learning **.NET, Angular , React**  
 - 💬 Ask me about **C#, Python, C++, and Mysql**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
 
@@ -37,7 +37,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 ### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,laravel,react,js,cpp,cs,java,py,dotnet,mysql,git&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,react,js,cpp,cs,java,py,dotnet,mysql,git&perline=7)](https://skillicons.dev)
  
 
 ---
