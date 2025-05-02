@@ -19,7 +19,6 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
 ### 🚀 About Me
 - 🌱 Learning **.NET, Angular , Svelte**  
-- 💬 Ask me about **C#, Python, C++, and Mysql**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
 
 ---
