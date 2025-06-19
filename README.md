@@ -36,7 +36,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 ### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,svelte,js,cpp,cs,java,py,dotnet,mysql,react,vite,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,svelte,js,cs,java,py,dotnet,mysql,react,vite&perline=7)](https://skillicons.dev)
  
 
 ---
