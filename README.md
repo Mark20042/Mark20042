@@ -11,7 +11,9 @@
 As a passionate web developer, I craft modern, responsive websites that blend sleek design with robust functionality. My love for technology drives me to stay ahead of the latest trends and tools in web development. I channel my problem-solving skills into gaming, where strategy and creativity collide. Whether building digital experiences or conquering virtual worlds, I thrive on innovation and immersive experiences.
   </p>
   </div>
+  
   ---
+  
 ### 🎯 Current Focus
 - 🌱 Learning **.NET, Angular , Svelte**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
