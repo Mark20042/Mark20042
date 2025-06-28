@@ -41,7 +41,9 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,svelte,js,cs,java,py,dotnet,mysql,react,vite&perline=7)](https://skillicons.dev)
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
  
 ---
 
