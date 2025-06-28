@@ -3,14 +3,6 @@
 # 🏂 Azore.Dev    <img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" align="right" />
 
 
-
-
-
-
-
- 
-
----
 <!-- ABOUT ME SECTION WITH ANIMATION -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 **`Tech Enthusiast  |  🌐 Web Developer  |  Gamer`**
