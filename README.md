@@ -4,7 +4,7 @@
 
 
 <!-- ABOUT ME SECTION WITH ANIMATION -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Azore Dev
 **`Tech Enthusiast  |  🌐 Web Developer  |  Gamer`**
 <div align="left">
   <p>
