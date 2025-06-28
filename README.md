@@ -28,10 +28,10 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ### 🌐 Connect With Me
 <div align="left">
   <a href="https://www.instagram.com/azorezxc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/makoyjoseph.minor" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="30" alt="Facebook">
   </a>
 </div>
 
