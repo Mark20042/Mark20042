@@ -11,18 +11,21 @@
 As a passionate web developer, I craft modern, responsive websites that blend sleek design with robust functionality. My love for technology drives me to stay ahead of the latest trends and tools in web development. I channel my problem-solving skills into gaming, where strategy and creativity collide. Whether building digital experiences or conquering virtual worlds, I thrive on innovation and immersive experiences.
   </p>
   </div>
+
+  
   ---
 
   
 ### 🎯 Current Focus
-  ---
+
 - 🌱 Learning **.NET, Angular , Svelte**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
+
+
+
+
 ---
-
-
 ### 🌐 Connect With Me
----
 <div align="left">
   <a href="https://www.instagram.com/azorezxc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
@@ -37,7 +40,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 <!-- TECH STACK WITH ANIMATIONS -->
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">  Tech Stack
----
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,svelte,js,cs,java,py,dotnet,mysql,react,vite&perline=7)](https://skillicons.dev)
  
 ---
@@ -45,7 +48,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
 <!-- GITHUB STATS WITH ANIMATIONS -->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats
-  ---
+
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mark20042&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
