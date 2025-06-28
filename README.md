@@ -35,16 +35,16 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
 ---
 <!-- TECH STACK WITH ANIMATIONS -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">  Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,svelte,js,cs,java,py,dotnet,mysql,react,vite&perline=7)](https://skillicons.dev)
  
 
 ---
 
-<details>
-  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats</summary>
+<!-- GITHUB STATS WITH ANIMATIONS -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mark20042&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+
  
