@@ -16,8 +16,8 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 </div>
 
 ---
-
-### 🚀 About Me
+<!-- ABOUT ME SECTION WITH ANIMATION -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 - 🌱 Learning **.NET, Angular , Svelte**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
 
