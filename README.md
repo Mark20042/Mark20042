@@ -42,7 +42,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary><<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mark20042&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
