@@ -12,15 +12,17 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
   </p>
   </div>
   
-  ---
+
   
 ### 🎯 Current Focus
+  ---
 - 🌱 Learning **.NET, Angular , Svelte**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
 
----
+
 
 ### 🌐 Connect With Me
+---
 <div align="left">
   <a href="https://www.instagram.com/azorezxc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
@@ -30,9 +32,11 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
   </a>
 </div>
 
----
+
 <!-- TECH STACK WITH ANIMATIONS -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">  Tech Stack
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">  Tech Stack
+---
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,svelte,js,cs,java,py,dotnet,mysql,react,vite&perline=7)](https://skillicons.dev)
  
 
