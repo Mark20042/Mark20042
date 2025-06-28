@@ -11,14 +11,14 @@
 As a passionate web developer, I craft modern, responsive websites that blend sleek design with robust functionality. My love for technology drives me to stay ahead of the latest trends and tools in web development. I channel my problem-solving skills into gaming, where strategy and creativity collide. Whether building digital experiences or conquering virtual worlds, I thrive on innovation and immersive experiences.
   </p>
   </div>
-  
+  ---
 
   
 ### 🎯 Current Focus
   ---
 - 🌱 Learning **.NET, Angular , Svelte**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
-
+---
 
 
 ### 🌐 Connect With Me
@@ -32,6 +32,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
   </a>
 </div>
 
+---
 
 <!-- TECH STACK WITH ANIMATIONS -->
 
@@ -39,12 +40,12 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,svelte,js,cs,java,py,dotnet,mysql,react,vite&perline=7)](https://skillicons.dev)
  
-
 ---
 
+
 <!-- GITHUB STATS WITH ANIMATIONS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats
-  
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats
+  ---
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mark20042&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
