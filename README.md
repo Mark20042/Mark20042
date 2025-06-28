@@ -37,27 +37,26 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
 ---
 
-<!-- TECH STACK WITH ANIMATIONS -->
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">  Tech Stack
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
 
 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" height="30">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="30">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="30">
-<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="30">
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" height="30">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="30">
-<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="30">
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28">
 
 </div>
  
