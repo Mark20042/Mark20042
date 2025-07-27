@@ -1,4 +1,4 @@
-<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 100px;">
+<div align="left" style="display: flex; gap: 100px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkwwub0ANo8wm2hXwE/giphy.gif" height="200"/>
   <img src="https://github.com/Mark20042/Mark20042/blob/main/hackir.gif?raw=true" height="200"/>
 </div>
