@@ -1,5 +1,7 @@
-![Web Developer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkwwub0ANo8wm2hXwE/giphy.gif)
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkwwub0ANo8wm2hXwE/giphy.gif" height="200"/>
+  <img src="https://github.com/Mark20042/Mark20042/blob/main/hackir.gif?raw=true" height="200"/>
+</div>
 <img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" align="right" />
 
 
@@ -67,6 +69,4 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Mark20042&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
-  ![image alt](https://github.com/Mark20042/Mark20042/blob/main/hackir.gif) 
 
