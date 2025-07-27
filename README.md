@@ -1,13 +1,10 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkwwub0ANo8wm2hXwE/giphy.gif" height="300"/>
-    </td>
-    <td align="right">
-      <img src="https://github.com/Mark20042/Mark20042/blob/main/hackir.gif?raw=true" height="300"/>
-    </td>
-  </tr>
-</table>
+<!-- BANNER SECTION -->
+<div align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkwwub0ANo8wm2hXwE/giphy.gif" height="300">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Mark20042/Mark20042/blob/main/hackir.gif?raw=true" height="300">
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" align="right" />
 
 
