@@ -5,7 +5,6 @@
   <img src="https://github.com/Mark20042/Mark20042/blob/main/hackir.gif?raw=true" height="300">
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Mark20042&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" align="right" />
 
 
 <!-- ABOUT ME SECTION WITH ANIMATION -->
