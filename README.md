@@ -63,6 +63,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
       <h3>Tools & Design</h3>
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"><br>
     </td>
   </tr>
 </table>
