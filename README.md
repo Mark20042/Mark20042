@@ -9,7 +9,7 @@
 
 <!-- ABOUT ME SECTION WITH ANIMATION -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Azore Dev
-**`2nd Year IT Student  |  🌐 Web Developer  |  Gamer`**
+**`3rd Year IT Student  |  🌐 Full Stack Developer  |  Gamer`**
 <div align="left">
   <p>
 As a passionate web developer, I craft modern, responsive websites that blend sleek design with robust functionality. My love for technology drives me to stay ahead of the latest trends and tools in web development. I channel my problem-solving skills into gaming, where strategy and creativity collide. Whether building digital experiences or conquering virtual worlds, I thrive on innovation and immersive experiences.
