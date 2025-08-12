@@ -48,6 +48,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
   <div>
     <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Django%20REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   </div>
 
   <br>
@@ -73,6 +74,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
   </div>
 
 </div>
+
 
 
 
