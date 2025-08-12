@@ -1,6 +1,6 @@
 <!-- BANNER SECTION -->
 <div align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExn280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkwwub0ANo8wm2hXwE/giphy.gif" height="300">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExn280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/kkwwub0ANo8wm2hXwE/giphy.gif" height="300">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Mark20042/Mark20042/blob/main/hackir.gif?raw=true" height="300">
 </div>
@@ -30,43 +30,39 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
-<table align="center">
+<table align="center" style="border-spacing: 40px;">
   <tr>
-    <!-- Frontend -->
+    <td align="center" valign="top">
+      <h3>Languages</h3>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"><br>
+    </td>
     <td align="center" valign="top">
       <h3>Frontend</h3>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><br>
-      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"><br>
     </td>
-
-    <!-- Backend -->
     <td align="center" valign="top">
       <h3>Backend</h3>
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><br>
       <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"><br>
     </td>
-
-    <!-- Databases -->
     <td align="center" valign="top">
       <h3>Databases</h3>
-      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"><br>
     </td>
-
-    <!-- Tools -->
     <td align="center" valign="top">
-      <h3>Tools</h3>
-      <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+      <h3>Tools & Design</h3>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><br>
     </td>
   </tr>
 </table>
