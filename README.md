@@ -33,13 +33,15 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 
   <!-- Frontend -->
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <h2 style="margin-bottom: 10px;">Frontend</h2>
-  <div>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>
+</div>
 
   <br>
 
