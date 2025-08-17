@@ -43,6 +43,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
       <img src="https://img.shields.io/badge/pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white">
+      <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white">
   </div>
 
   <br>
