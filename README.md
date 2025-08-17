@@ -30,6 +30,8 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+
   <!-- Frontend -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <h2 style="margin-bottom: 10px;">Frontend</h2>
@@ -38,6 +40,8 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
       <img src="https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
     </div>
   </div>
 
