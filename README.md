@@ -30,8 +30,6 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-
   <!-- Frontend -->
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <h2 style="margin-bottom: 10px;">Frontend</h2>
