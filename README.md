@@ -68,7 +68,20 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
 
+  <br>
+
+  <!-- Tools -->
+  <h2 style="margin-bottom: 10px;">Tools</h2>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white">
+    <img src="https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autodesk&logoColor=white">
+    <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  </div>
+
 </div>
+
 
 
  <br>
