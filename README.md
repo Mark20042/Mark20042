@@ -19,16 +19,6 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
 ---
 
-### 🌐 Connect With Me
-<a href="https://www.instagram.com/azorezxc" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30">
-</a>
-<a href="https://www.facebook.com/makoyjoseph.minor" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="30">
-</a>
-
----
-
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tech Stack
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 
