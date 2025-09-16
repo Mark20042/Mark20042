@@ -14,7 +14,7 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 ### 🎯 Current Focus
-- 🌱 Learning **.NET, Angular, Django, ML**  
+- 🌱 Learning **Svelte**  
 - 📫 Reach me at **mark.potot2004@gmail.com**  
 
 ---
