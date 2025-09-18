@@ -33,7 +33,8 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
       <img src="https://img.shields.io/badge/pug-%23A86454.svg?style=for-the-badge&logo=pug&logoColor=white">
       <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white">
-       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+    </div>
   </div>
 
   <br>
@@ -46,6 +47,8 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
     <img src="https://img.shields.io/badge/Django%20REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   </div>
 
   <br>
@@ -62,6 +65,15 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 
   <br>
 
+  <!-- AI / Machine Learning -->
+  <h2 style="margin-bottom: 10px;">AI / Machine Learning</h2>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
+  </div>
+
+  <br>
+
   <!-- Tools -->
   <h2 style="margin-bottom: 10px;">Tools</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -74,7 +86,6 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
   </div>
 
 </div>
-
 
 
  <br>
