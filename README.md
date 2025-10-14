@@ -1,10 +1,14 @@
-<!-- BANNER SECTION -->
-<div align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExn280em9vcnRtdTBzbTU1YzcwMHQ0bzE2a3o4cTljbmd3cG84cnhvOSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/kkwwub0ANo8wm2hXwE/giphy.gif" height="300">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Mark20042/Mark20042/blob/main/hackir.gif?raw=true" height="300">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%&height=150§ion=header"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Web+Developer+from+Philippines;A+Full-Stack+Developer." alt="Typing SVG" />
 </div>
 
+
+
+<!-- Top Wave Animation -->
+
+---
 <!-- ABOUT ME SECTION WITH ANIMATION -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Azore Dev
 **`3rd Year IT Student  |  🌐 Full Stack Developer  |  Machine Learning / AI `**
