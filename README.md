@@ -1,11 +1,3 @@
-<!-- Animated Red Dot -->
-<div align="center">
-  <img src="https://github.com/Mark20042/Mark20042/blob/main/assets/red-dot.gif" width="14" height="14" />
-</div>
-
-<!-- Unique Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=140&section=header&text=Mark%20Joseph%20Potot&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn" />
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mark+Joseph+Potot;Full+Stack+Developer+%7C+3rd+Year+IT+Student;Machine+Learning+%2F+AI+Enthusiast" alt="Typing SVG" />
 </div>
