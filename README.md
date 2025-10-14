@@ -1,3 +1,8 @@
+<!-- Animated Red Dot -->
+<div align="center">
+  <img src="https://github.com/Mark20042/Mark20042/blob/main/assets/red-dot.gif" width="14" height="14" />
+</div>
+
 <!-- Unique Animated Gradient Header -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=140&section=header&text=Mark%20Joseph%20Potot&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=fadeIn" />
 
