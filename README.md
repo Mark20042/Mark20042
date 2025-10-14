@@ -1,5 +1,28 @@
-<div align="center" style="background: linear-gradient(90deg, #8B5CF6, #EC4899); padding: 15px; border-radius: 12px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mark+Joseph+Potot;Web+Developer+%7C+3rd+Year+IT+Student;Machine+Learning+%2F+AI+Enthusiast" alt="Typing SVG" />
+<!-- Typing SVG with Moving Gradient Background -->
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="100">
+    <!-- Animated Gradient Background -->
+    <defs>
+      <linearGradient id="grad">
+        <stop offset="0%" stop-color="#8B5CF6">
+          <animate attributeName="stop-color" values="#8B5CF6;#EC4899;#A78BFA;#8B5CF6" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#A78BFA">
+          <animate attributeName="stop-color" values="#A78BFA;#8B5CF6;#EC4899;#A78BFA" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <!-- Background Rectangle -->
+    <rect width="100%" height="100%" fill="url(#grad)" rx="10" ry="10" />
+
+    <!-- Typing Text (Readme Typing SVG embedded as image) -->
+    <foreignObject x="0" y="0" width="700" height="100">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex;justify-content:center;align-items:center;height:100%;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mark+Joseph+Potot;Full+Stack+Developer+%7C+3rd+Year+IT+Student;Machine+Learning+%2F+AI+Enthusiast" alt="Typing SVG" />
+      </div>
+    </foreignObject>
+  </svg>
 </div>
 
 
