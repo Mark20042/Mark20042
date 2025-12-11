@@ -16,11 +16,4 @@ As a passionate web developer, I craft modern, responsive websites that blend sl
 ---
 
 
- <br>
 
----
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mark20042&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark20042&layout=compact&theme=blueberry&count_private=true&hide_border=true)
